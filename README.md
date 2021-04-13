@@ -1,7 +1,13 @@
 # Clean Text Python Tutorial
 ## To view the video
-* [Click here](https://youtu.be/i2TjAgga1YU)
-* Click on the image below
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=i2TjAgga1YU" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/i2TjAgga1YU?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
 
 [![Clean Text Python Tutorial](http://img.youtube.com/vi/i2TjAgga1YU/0.jpg)](http://www.youtube.com/watch?v=i2TjAgga1YU)
 
